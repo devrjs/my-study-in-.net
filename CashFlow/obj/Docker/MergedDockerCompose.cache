@@ -1,0 +1,65 @@
+name: dockercompose17841269690247226879
+services:
+  cashflow.api:
+    build:
+      context: C:\Users\Vitor\Desktop\CashFlow
+      dockerfile: src/CashFlow.Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: cashflowapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8080"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "8081"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Vitor\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Vitor\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  cashflow.database:
+    container_name: cashflow-db
+    environment:
+      MYSQL_DATABASE: cashflow-db
+      MYSQL_PASSWORD: docker
+      MYSQL_ROOT_PASSWORD: docker
+      MYSQL_USER: docker
+    image: mysql:8.0.35
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 3306
+        published: "3306"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Vitor\Desktop\CashFlow\.containers\cashflow-db
+        target: /var/lib/mysql
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose17841269690247226879_default

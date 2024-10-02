@@ -1,0 +1,15 @@
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\bin\Debug\net8.0\CommonTestUtilites.deps.json
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\bin\Debug\net8.0\CommonTestUtilites.dll
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\bin\Debug\net8.0\CommonTestUtilites.pdb
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\bin\Debug\net8.0\CashFlow.Communication.dll
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\bin\Debug\net8.0\CashFlow.Communication.pdb
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\obj\Debug\net8.0\CommonTestUtilites.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\obj\Debug\net8.0\CommonTestUtilites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\obj\Debug\net8.0\CommonTestUtilites.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\obj\Debug\net8.0\CommonTestUtilites.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\obj\Debug\net8.0\CommonTestUtilites.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\obj\Debug\net8.0\CommonTe.37D6D005.Up2Date
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\obj\Debug\net8.0\CommonTestUtilites.dll
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\obj\Debug\net8.0\refint\CommonTestUtilites.dll
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\obj\Debug\net8.0\CommonTestUtilites.pdb
+C:\Users\Vitor\Desktop\CashFlow\tests\CommonTestUtilites\obj\Debug\net8.0\ref\CommonTestUtilites.dll

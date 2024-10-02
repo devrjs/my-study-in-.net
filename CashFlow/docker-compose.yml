@@ -1,0 +1,23 @@
+services:
+  cashflow.api:
+    image: ${DOCKER_REGISTRY-}cashflowapi
+    build:
+      context: .
+      dockerfile: src/CashFlow.Api/Dockerfile
+    ports:
+        - "8080:8080"
+        - "8081:8081"
+        
+  cashflow.database:
+    image: mysql:8.0.35
+    container_name: cashflow-db
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: docker
+      MYSQL_USER: docker
+      MYSQL_PASSWORD: docker
+      MYSQL_DATABASE: cashflow-db
+    volumes:
+      - ./.containers/cashflow-db:/var/lib/mysql
+
