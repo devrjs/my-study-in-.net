@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "L:\\my-study-in-.net\\NerdStoreEnterprise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CD47689-64B5-4D6B-AEC3-16AD39412DC1}|src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\services\\nse.catalogo.api\\configuration\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CD47689-64B5-4D6B-AEC3-16AD39412DC1}|src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj|solutionrelative:src\\services\\nse.catalogo.api\\configuration\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CD47689-64B5-4D6B-AEC3-16AD39412DC1}|src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\services\\nse.catalogo.api\\configuration\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD47689-64B5-4D6B-AEC3-16AD39412DC1}|src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj|solutionrelative:src\\services\\nse.catalogo.api\\configuration\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC252330-E0F9-4BE7-8BC0-B6116FAA9A87}|src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\building blocks\\nse.webapi.core\\identidade\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC252330-E0F9-4BE7-8BC0-B6116FAA9A87}|src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj|solutionrelative:src\\building blocks\\nse.webapi.core\\identidade\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC252330-E0F9-4BE7-8BC0-B6116FAA9A87}|src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\building blocks\\nse.webapi.core\\identidade\\customauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC252330-E0F9-4BE7-8BC0-B6116FAA9A87}|src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj|solutionrelative:src\\building blocks\\nse.webapi.core\\identidade\\customauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CD47689-64B5-4D6B-AEC3-16AD39412DC1}|src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\services\\nse.catalogo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CD47689-64B5-4D6B-AEC3-16AD39412DC1}|src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj|solutionrelative:src\\services\\nse.catalogo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E30380D4-C803-4E44-9B53-E253DAF8A278}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\services\\nse.identidade.api\\nse.identidade.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E30380D4-C803-4E44-9B53-E253DAF8A278}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\nse.identidade.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E30380D4-C803-4E44-9B53-E253DAF8A278}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\services\\nse.identidade.api\\nse.identidade.api\\configuration\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E30380D4-C803-4E44-9B53-E253DAF8A278}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\nse.identidade.api\\configuration\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E30380D4-C803-4E44-9B53-E253DAF8A278}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\services\\nse.identidade.api\\nse.identidade.api\\configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E30380D4-C803-4E44-9B53-E253DAF8A278}|src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj|solutionrelative:src\\services\\nse.identidade.api\\nse.identidade.api\\configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CD47689-64B5-4D6B-AEC3-16AD39412DC1}|src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\services\\nse.catalogo.api\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD47689-64B5-4D6B-AEC3-16AD39412DC1}|src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj|solutionrelative:src\\services\\nse.catalogo.api\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApiConfig.cs",
-              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Catalogo.API\\Configuration\\ApiConfig.cs",
-              "RelativeDocumentMoniker": "src\\services\\NSE.Catalogo.API\\Configuration\\ApiConfig.cs",
-              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Catalogo.API\\Configuration\\ApiConfig.cs",
-              "RelativeToolTip": "src\\services\\NSE.Catalogo.API\\Configuration\\ApiConfig.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCQAAAAnAAAAAAAAAA==",
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Catalogo.API\\Configuration\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Catalogo.API\\Configuration\\SwaggerConfig.cs",
+              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Catalogo.API\\Configuration\\SwaggerConfig.cs",
+              "RelativeToolTip": "src\\services\\NSE.Catalogo.API\\Configuration\\SwaggerConfig.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvyoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T19:29:44.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Catalogo.API\\Program.cs",
-              "RelativeDocumentMoniker": "src\\services\\NSE.Catalogo.API\\Program.cs",
-              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Catalogo.API\\Program.cs",
-              "RelativeToolTip": "src\\services\\NSE.Catalogo.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T19:28:56.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\Controllers\\AuthController.cs",
-              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T19:27:51.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApiConfig.cs",
-              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\Configuration\\ApiConfig.cs",
-              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\Configuration\\ApiConfig.cs",
-              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\Configuration\\ApiConfig.cs",
-              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\Configuration\\ApiConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T19:24:32.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IdentityConfig.cs",
-              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\Configuration\\IdentityConfig.cs",
-              "RelativeDocumentMoniker": "src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\Configuration\\IdentityConfig.cs",
-              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\Configuration\\IdentityConfig.cs",
-              "RelativeToolTip": "src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\Configuration\\IdentityConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T19:15:37.969Z",
+              "WhenOpened": "2024-10-17T20:19:59.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JwtConfig.cs",
-              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\Identidade\\JwtConfig.cs",
-              "RelativeDocumentMoniker": "src\\building blocks\\NSE.WebAPI.Core\\Identidade\\JwtConfig.cs",
-              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\Identidade\\JwtConfig.cs",
-              "RelativeToolTip": "src\\building blocks\\NSE.WebAPI.Core\\Identidade\\JwtConfig.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAAA5AAAAAAAAAA==",
+              "Title": "CustomAuthorize.cs",
+              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\Identidade\\CustomAuthorize.cs",
+              "RelativeDocumentMoniker": "src\\building blocks\\NSE.WebAPI.Core\\Identidade\\CustomAuthorize.cs",
+              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\Identidade\\CustomAuthorize.cs",
+              "RelativeToolTip": "src\\building blocks\\NSE.WebAPI.Core\\Identidade\\CustomAuthorize.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T18:43:06.182Z",
+              "WhenOpened": "2024-10-17T20:14:52.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogoController.cs",
+              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Catalogo.API\\Controllers\\CatalogoController.cs",
+              "RelativeDocumentMoniker": "src\\services\\NSE.Catalogo.API\\Controllers\\CatalogoController.cs",
+              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Catalogo.API\\Controllers\\CatalogoController.cs",
+              "RelativeToolTip": "src\\services\\NSE.Catalogo.API\\Controllers\\CatalogoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T20:13:25.147Z",
               "EditorCaption": ""
             }
           ]
