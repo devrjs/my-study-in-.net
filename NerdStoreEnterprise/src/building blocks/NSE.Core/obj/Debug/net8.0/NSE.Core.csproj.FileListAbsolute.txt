@@ -9,3 +9,15 @@ L:\Desktop\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net8.0\NSE
 L:\Desktop\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net8.0\refint\NSE.Core.dll
 L:\Desktop\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net8.0\NSE.Core.pdb
 L:\Desktop\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net8.0\ref\NSE.Core.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\net8.0\NSE.Core.deps.json
+L:\my-study-in-.net\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\net8.0\NSE.Core.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\net8.0\NSE.Core.pdb
+L:\my-study-in-.net\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net8.0\NSE.Core.GeneratedMSBuildEditorConfig.editorconfig
+L:\my-study-in-.net\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net8.0\NSE.Core.AssemblyInfoInputs.cache
+L:\my-study-in-.net\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net8.0\NSE.Core.AssemblyInfo.cs
+L:\my-study-in-.net\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net8.0\NSE.Core.csproj.CoreCompileInputs.cache
+L:\my-study-in-.net\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net8.0\NSE.Core.sourcelink.json
+L:\my-study-in-.net\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net8.0\NSE.Core.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net8.0\refint\NSE.Core.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net8.0\NSE.Core.pdb
+L:\my-study-in-.net\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\net8.0\ref\NSE.Core.dll

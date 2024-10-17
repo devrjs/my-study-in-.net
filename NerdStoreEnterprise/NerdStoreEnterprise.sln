@@ -41,7 +41,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NSE.Pagamento.API", "src\se
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NSE.Pedido.API", "src\services\NSE.Pedido.API\NSE.Pedido.API.csproj", "{8E924618-45D2-4483-BF16-DB12370AED75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSE.Identidade.API", "src\services\NSE.Identidade.API\NSE.Identidade.API\NSE.Identidade.API.csproj", "{E30380D4-C803-4E44-9B53-E253DAF8A278}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NSE.Identidade.API", "src\services\NSE.Identidade.API\NSE.Identidade.API\NSE.Identidade.API.csproj", "{E30380D4-C803-4E44-9B53-E253DAF8A278}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

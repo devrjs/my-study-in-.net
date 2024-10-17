@@ -412,11 +412,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\Desktop\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
+      "projectUniqueName": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
       "projectName": "NSE.WebApp.MVC",
-      "projectPath": "L:\\Desktop\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
+      "projectPath": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
       "packagesPath": "C:\\Users\\Vitor\\.nuget\\packages\\",
-      "outputPath": "L:\\Desktop\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\obj\\",
+      "outputPath": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",

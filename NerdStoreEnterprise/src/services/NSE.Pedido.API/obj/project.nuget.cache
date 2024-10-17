@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z1NoRucUDvE=",
+  "dgSpecHash": "hwX/DUq9J+k=",
   "success": true,
-  "projectFilePath": "L:\\Desktop\\NerdStoreEnterprise\\src\\services\\NSE.Pedido.API\\NSE.Pedido.API.csproj",
+  "projectFilePath": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Pedido.API\\NSE.Pedido.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vitor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Vitor\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

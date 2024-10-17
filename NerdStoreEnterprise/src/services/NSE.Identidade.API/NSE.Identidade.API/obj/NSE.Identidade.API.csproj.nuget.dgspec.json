@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "L:\\Desktop\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj": {}
+    "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj": {}
   },
   "projects": {
-    "L:\\Desktop\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj": {
+    "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\Desktop\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj",
+        "projectUniqueName": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj",
         "projectName": "NSE.Identidade.API",
-        "projectPath": "L:\\Desktop\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj",
+        "projectPath": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\NSE.Identidade.API.csproj",
         "packagesPath": "C:\\Users\\Vitor\\.nuget\\packages\\",
-        "outputPath": "L:\\Desktop\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\obj\\",
+        "outputPath": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -540,11 +540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\Desktop\\NerdStoreEnterprise\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj",
+      "projectUniqueName": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj",
       "projectName": "NSE.Cliente.API",
-      "projectPath": "L:\\Desktop\\NerdStoreEnterprise\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj",
+      "projectPath": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj",
       "packagesPath": "C:\\Users\\Vitor\\.nuget\\packages\\",
-      "outputPath": "L:\\Desktop\\NerdStoreEnterprise\\src\\services\\NSE.Cliente.API\\obj\\",
+      "outputPath": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Cliente.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",

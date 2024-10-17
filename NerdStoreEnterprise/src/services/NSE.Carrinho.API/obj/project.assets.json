@@ -540,11 +540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\Desktop\\NerdStoreEnterprise\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
+      "projectUniqueName": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
       "projectName": "NSE.Carrinho.API",
-      "projectPath": "L:\\Desktop\\NerdStoreEnterprise\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
+      "projectPath": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
       "packagesPath": "C:\\Users\\Vitor\\.nuget\\packages\\",
-      "outputPath": "L:\\Desktop\\NerdStoreEnterprise\\src\\services\\NSE.Carrinho.API\\obj\\",
+      "outputPath": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Carrinho.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
