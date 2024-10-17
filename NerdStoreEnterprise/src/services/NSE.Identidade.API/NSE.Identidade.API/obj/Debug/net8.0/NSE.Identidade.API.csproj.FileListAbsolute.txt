@@ -251,3 +251,5 @@ L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Identidade.API\NSE.Iden
 L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Identidade.API\NSE.Identidade.API\obj\Debug\net8.0\NSE.Iden.883A402C.Up2Date
 L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Identidade.API\NSE.Identidade.API\obj\Debug\net8.0\NSE.Identidade.API.genruntimeconfig.cache
 L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Identidade.API\NSE.Identidade.API\obj\Debug\net8.0\ref\NSE.Identidade.API.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Identidade.API\NSE.Identidade.API\bin\Debug\net8.0\NSE.WebAPI.Core.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Identidade.API\NSE.Identidade.API\bin\Debug\net8.0\NSE.WebAPI.Core.pdb

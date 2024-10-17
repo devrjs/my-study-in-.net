@@ -143,3 +143,13 @@ L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\
 L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\net8.0\NSE.Core.dll
 L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\net8.0\NSE.Core.pdb
+L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\net8.0\NSE.WebAPI.Core.dll
+L:\my-study-in-.net\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\net8.0\NSE.WebAPI.Core.pdb
