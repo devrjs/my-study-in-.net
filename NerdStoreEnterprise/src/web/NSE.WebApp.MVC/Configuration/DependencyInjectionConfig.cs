@@ -1,6 +1,8 @@
 ﻿using NSE.WebApp.MVC.Extensions;
 using NSE.WebApp.MVC.Services;
 using NSE.WebApp.MVC.Services.Handlers;
+using Polly;
+using Polly.Extensions.Http;
 
 namespace NSE.WebApp.MVC.Configuration
 {
@@ -12,17 +14,33 @@ namespace NSE.WebApp.MVC.Configuration
 
             builder.Services.AddHttpClient<IAutenticacaoService, AutenticacaoService>();
 
-            //builder.Services
-            //    .AddHttpClient<ICatalogoService, CatalogoService>()
-            //    .AddHttpMessageHandler<HttpClientAuthorizationDelegatingHandler>();
+            var retryWaitPolicy = HttpPolicyExtensions
+                .HandleTransientHttpError()
+                .WaitAndRetryAsync(new[]{
+                    TimeSpan.FromSeconds(1),
+                    TimeSpan.FromSeconds(5),
+                    TimeSpan.FromSeconds(10),
+            }, (outcome, timespan, retryCount, context) =>
+            {
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine($"Tentando pela {retryCount} vez!");
+                Console.ForegroundColor = ConsoleColor.White;
+            });
 
             builder.Services
-                .AddHttpClient("Refit", options =>
-                {
-                    options.BaseAddress = new Uri(builder.Configuration.GetSection("CatalogoUrl").Value);
-                })
+                .AddHttpClient<ICatalogoService, CatalogoService>()
                 .AddHttpMessageHandler<HttpClientAuthorizationDelegatingHandler>()
-            .AddTypedClient(Refit.RestService.For<ICatalogoServiceRefit>);
+                //.AddTransientHttpErrorPolicy( p => p.WaitAndRetryAsync(3, _ => TimeSpan.FromMilliseconds(600)));
+                .AddPolicyHandler(retryWaitPolicy);
+
+
+            //builder.Services
+            //    .AddHttpClient("Refit", options =>
+            //    {
+            //        options.BaseAddress = new Uri(builder.Configuration.GetSection("CatalogoUrl").Value);
+            //    })
+            //    .AddHttpMessageHandler<HttpClientAuthorizationDelegatingHandler>()
+            //.AddTypedClient(Refit.RestService.For<ICatalogoServiceRefit>);
 
             builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             builder.Services.AddScoped<IUser, AspNetUser>();

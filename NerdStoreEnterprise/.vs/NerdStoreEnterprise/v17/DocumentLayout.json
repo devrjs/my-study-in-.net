@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "L:\\my-study-in-.net\\NerdStoreEnterprise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CD47689-64B5-4D6B-AEC3-16AD39412DC1}|src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\services\\nse.catalogo.api\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CD47689-64B5-4D6B-AEC3-16AD39412DC1}|src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj|solutionrelative:src\\services\\nse.catalogo.api\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\services\\handlers\\httpclientauthorizationdelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\services\\handlers\\httpclientauthorizationdelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HttpClientAuthorizationDelegatingHandler.cs",
-              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Services\\Handlers\\HttpClientAuthorizationDelegatingHandler.cs",
-              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Services\\Handlers\\HttpClientAuthorizationDelegatingHandler.cs",
-              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Services\\Handlers\\HttpClientAuthorizationDelegatingHandler.cs",
-              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Services\\Handlers\\HttpClientAuthorizationDelegatingHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CatalogoController.cs",
+              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Controllers\\CatalogoController.cs",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Controllers\\CatalogoController.cs",
+              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Controllers\\CatalogoController.cs",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Controllers\\CatalogoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T15:21:05.78Z",
+              "WhenOpened": "2024-10-19T15:29:18.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CatalogoController.cs",
-              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Catalogo.API\\Controllers\\CatalogoController.cs",
-              "RelativeDocumentMoniker": "src\\services\\NSE.Catalogo.API\\Controllers\\CatalogoController.cs",
-              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Catalogo.API\\Controllers\\CatalogoController.cs",
-              "RelativeToolTip": "src\\services\\NSE.Catalogo.API\\Controllers\\CatalogoController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Title": "DependencyInjectionConfig.cs",
+              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Configuration\\DependencyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Configuration\\DependencyInjectionConfig.cs",
+              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Configuration\\DependencyInjectionConfig.cs",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Configuration\\DependencyInjectionConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T15:18:21.35Z",
+              "WhenOpened": "2024-10-19T15:28:18.245Z",
               "EditorCaption": ""
             }
           ]

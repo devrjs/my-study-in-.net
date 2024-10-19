@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "L:\\my-study-in-.net\\NerdStoreEnterprise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\services\\handlers\\httpclientauthorizationdelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\services\\handlers\\httpclientauthorizationdelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9CD47689-64B5-4D6B-AEC3-16AD39412DC1}|src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\services\\nse.catalogo.api\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CD47689-64B5-4D6B-AEC3-16AD39412DC1}|src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj|solutionrelative:src\\services\\nse.catalogo.api\\controllers\\catalogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\services\\handlers\\httpclientauthorizationdelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\services\\handlers\\httpclientauthorizationdelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HttpClientAuthorizationDelegatingHandler.cs",
               "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Services\\Handlers\\HttpClientAuthorizationDelegatingHandler.cs",
               "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Services\\Handlers\\HttpClientAuthorizationDelegatingHandler.cs",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CatalogoController.cs",
               "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Catalogo.API\\Controllers\\CatalogoController.cs",
               "RelativeDocumentMoniker": "src\\services\\NSE.Catalogo.API\\Controllers\\CatalogoController.cs",
               "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\services\\NSE.Catalogo.API\\Controllers\\CatalogoController.cs",
               "RelativeToolTip": "src\\services\\NSE.Catalogo.API\\Controllers\\CatalogoController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T15:18:21.35Z",
               "EditorCaption": ""
