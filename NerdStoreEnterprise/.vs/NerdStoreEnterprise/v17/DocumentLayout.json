@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "L:\\my-study-in-.net\\NerdStoreEnterprise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\configuration\\webappconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\configuration\\webappconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\views\\catalogo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\views\\catalogo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\extensions\\razorhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\extensions\\razorhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\views\\catalogo\\produtodetalhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\views\\catalogo\\produtodetalhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\extensions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|l:\\my-study-in-.net\\nerdstoreenterprise\\src\\web\\nse.webapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB92EB0D-D261-4FD3-A18F-577D2F0B0C02}|src\\web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj|solutionrelative:src\\web\\nse.webapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +46,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebAppConfig.cs",
+              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Configuration\\WebAppConfig.cs",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Configuration\\WebAppConfig.cs",
+              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Configuration\\WebAppConfig.cs",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Configuration\\WebAppConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:12:23.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T21:07:43.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoDetalhe.cshtml",
+              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Catalogo\\ProdutoDetalhe.cshtml",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Views\\Catalogo\\ProdutoDetalhe.cshtml",
+              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Catalogo\\ProdutoDetalhe.cshtml",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Views\\Catalogo\\ProdutoDetalhe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T21:05:28.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Catalogo\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Views\\Catalogo\\Index.cshtml",
+              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Catalogo\\Index.cshtml",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Views\\Catalogo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T21:01:44.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RazorHelpers.cs",
+              "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Extensions\\RazorHelpers.cs",
+              "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Extensions\\RazorHelpers.cs",
+              "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Extensions\\RazorHelpers.cs",
+              "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Extensions\\RazorHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:00:06.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Extensions\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Extensions\\ExceptionMiddleware.cs",
               "ToolTip": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Extensions\\ExceptionMiddleware.cs",
               "RelativeToolTip": "src\\web\\NSE.WebApp.MVC\\Extensions\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAcwDUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T20:48:27.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Controllers\\HomeController.cs",
@@ -56,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "DependencyInjectionConfig.cs",
               "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Configuration\\DependencyInjectionConfig.cs",
               "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Configuration\\DependencyInjectionConfig.cs",
@@ -69,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "L:\\my-study-in-.net\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\web\\NSE.WebApp.MVC\\Properties\\launchSettings.json",
